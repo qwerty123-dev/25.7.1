@@ -15,7 +15,4 @@
 ## Требования
 - C++ компилятор (g++)
 - MySQL Server
-- Библиотеки:
-  - pthread
-  - mysqlclient (libmysqlclient)
 
