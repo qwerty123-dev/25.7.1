@@ -12,7 +12,7 @@
 #include <unistd.h>
 #include <mysql/mysql.h>
 
-#define SERVER_UDP_PORT 9000
+#define SERVER_UDP_PORT 12345
 
 struct ClientInfo {
     sockaddr_in addr;
