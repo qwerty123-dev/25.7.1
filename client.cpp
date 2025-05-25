@@ -5,8 +5,8 @@
 #include <unistd.h>
 #include <cstring>
 
-#define SERVER_IP "192.168.100.114"
-#define SERVER_UDP_PORT 9000
+#define SERVER_IP "127.0.0.1"
+#define SERVER_UDP_PORT 12345
 
 int udpSock;
 sockaddr_in serverAddr;
